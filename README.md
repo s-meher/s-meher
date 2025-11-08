@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shree Meher!
 
-💻 **Computer Science Student | AI & Systems Enthusiast | Future Stanford Grad**
+💻 **Computer Science Student | AI & Systems Enthusiast **
 
 I'm passionate about building impactful software, demystifying complex systems, and helping students aim higher through accessible resources and personal storytelling.
 
