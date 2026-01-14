@@ -1,50 +1,64 @@
-# 👋 Hi, I'm Shree Meher!
+#👋 Hi, I’m Shree Meher
 
-💻 **Computer Science Student | AI & Systems Enthusiast **
-
-I'm passionate about building impactful software, demystifying complex systems, and helping students aim higher through accessible resources and personal storytelling.
+🎓 Computer Science student with a Business minor, focused on **analytics, solutions engineering, and business systems**—working at the intersection of technology, data, and decision-making.
 
 ---
 
-## 🔥 About Me
+## About Me
 
-- 🎓 Computer Science major at Illinois Institute of Technology (IIT Chicago)
-- 🌟 Treasurer of ACMW IIT & Accountability Director at Alpha Sigma Alpha
-- 💡 Founder of **Underdog to Unicorn**, helping students build personal brands and land opportunities
-- ⚙️ Exploring research in teeth microcracks, AI for Bharat, and EdTech
-- 🧑‍💻 Building side projects to simplify government schemes, track internships, and gamify learning
-- 🏆 Passionate about creating a legacy of impact through technology and storytelling
+I’m a CS major at Illinois Institute of Technology with experience building backend systems, analytics workflows, and internal tools that support real business and operational decisions. I enjoy translating ambiguous problems into structured, data-driven solutions and working across technical and non-technical stakeholders.
+
+Alongside my technical background, I’m preparing for **CFA Level I**, which strengthens my understanding of finance, risk, and decision frameworks. Long-term, I’m interested in roles where technology and data are used to drive impact in analytics, consulting, solutions engineering, or business-facing technical teams.
 
 ---
 
-## 🛠️ Tech Stack
-
-**Frontend:** Next.js, React.js, TailwindCSS, HTML/CSS, JavaScript
-
-**Backend:** Node.js (Express), Spring Boot, Python Flask, OracleDB, PostgreSQL
-
-**AI & Data:** TensorFlow, PyTorch, NLTK, OpenAI APIs
-
-**Systems & Low-Level:** C, C++, RISC-V Assembly
+## Areas of Focus
+- Analytics & data-driven decision support  
+- Solutions engineering & business systems  
+- Backend systems & automation  
+- Finance, risk, and operational analysis  
 
 ---
 
-## 🚀 Projects & Initiatives
+## Selected Projects
 
-- 🌟 **EdTech Chatbot** – Conversational learning assistant built with Keras and GPT
-- 🛡️ **Shell Lab & Malloc Lab** – Unix shell and dynamic memory allocator (CS351 Systems Programming)
-- 🎯 **AI for Bharat** – Simplifying Indian government schemes with GPT-powered summarization
-- 🧠 **Gamified DSA Tracker** – Duolingo-style streak app for mastering algorithms
-- 💼 **Internship Outreach Toolkit** – Helping students track and optimize applications
+- **Analytics & Decision Projects**  
+  SQL- and Python-based analyses designed to answer concrete business questions and support decision-making.
+
+- **Systems & Automation Tools**  
+  Backend services and workflow automations built to reduce manual effort and improve operational efficiency.
+
+- **Finance / Risk-Oriented Work**  
+  Data-driven projects exploring financial metrics, risk, and performance in applied contexts.
+
+(Each project README outlines the problem, approach, insights, and outcomes.)
+
+---
+
+## Technical Skills
+
+**Programming & Backend:**  
+Python, Java, SQL, Flask, Spring Boot, PostgreSQL, Oracle DB  
+
+**Analytics & Data:**  
+SQL, Pandas, data analysis, reporting workflows  
+
+**Systems & Tools:**  
+Linux, Git, APIs, automation pipelines  
+
+**Business & Finance:**  
+Accounting, operations, analytics concepts | CFA Level I candidate  
 
 ---
 
-## 🎤 Tech Talks & Workshops
+## Currently Exploring
+- Solutions Engineer Intern roles  
+- Analytics / Data Analyst Intern roles  
+- Business or Risk Analyst Intern roles  
 
-- 📝 Mentoring peers on **Systems Programming, Shell Lab**, and **personal branding for tech careers**
-- 🎯 Hosting workshops on **LinkedIn Optimization**, **Hackathon Prep**, and **AI fundamentals**
+📫 **Connect:**  
+LinkedIn • GitHub • Email
 
----
 
 ## 📬 Connect With Me
 
