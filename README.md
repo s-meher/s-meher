@@ -1,6 +1,6 @@
-#👋 Hi, I’m Shree Meher
+# Hi, I’m Shree Meher 👋
 
-🎓 Computer Science student with a Business minor, focused on **analytics, solutions engineering, and business systems**—working at the intersection of technology, data, and decision-making.
+🎓  ** Computer Science student with a Business minor, focused on **analytics, solutions engineering, and business systems**—working at the intersection of technology, data, and decision-making.
 
 ---
 
@@ -16,22 +16,7 @@ Alongside my technical background, I’m preparing for **CFA Level I**, which st
 - Analytics & data-driven decision support  
 - Solutions engineering & business systems  
 - Backend systems & automation  
-- Finance, risk, and operational analysis  
-
----
-
-## Selected Projects
-
-- **Analytics & Decision Projects**  
-  SQL- and Python-based analyses designed to answer concrete business questions and support decision-making.
-
-- **Systems & Automation Tools**  
-  Backend services and workflow automations built to reduce manual effort and improve operational efficiency.
-
-- **Finance / Risk-Oriented Work**  
-  Data-driven projects exploring financial metrics, risk, and performance in applied contexts.
-
-(Each project README outlines the problem, approach, insights, and outcomes.)
+- Finance, risk, and operational analysis
 
 ---
 
@@ -56,9 +41,7 @@ Accounting, operations, analytics concepts | CFA Level I candidate
 - Analytics / Data Analyst Intern roles  
 - Business or Risk Analyst Intern roles  
 
-📫 **Connect:**  
-LinkedIn • GitHub • Email
-
+---
 
 ## 📬 Connect With Me
 
