@@ -1,6 +1,6 @@
 # Hi, I’m Shree Meher 👋
 
-**Computer Science student with a Business minor, focused on **analytics, solutions engineering, and business systems**—working at the intersection of technology, data, and decision-making.
+Computer Science student with a Business minor, focused on **analytics, solutions engineering, and business systems**—working at the intersection of technology, data, and decision-making.
 
 ---
 
