@@ -47,5 +47,3 @@ I’m currently exploring opportunities in:
 
 ## Connect With Me [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shree-meher-3b1727259/)](https://www.linkedin.com/in/shree-meher/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/s-meher)](https://github.com/s-meher) [![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:shreemeher05@gmail.com)](mailto:shreemeher05@gmail.com) 
 
-
-💡 Always learning, always building. Let's connect and create something extraordinary! 
