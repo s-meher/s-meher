@@ -1,52 +1,51 @@
 # Hi, I’m Shree Meher 👋
 
-Computer Science student with a Business minor, focused on **analytics, solutions engineering, and business systems**—working at the intersection of technology, data, and decision-making.
+Computer Science student at Illinois Institute of Technology building **backend systems, data-driven tools, and reliable software**.
 
 ---
 
-## About Me
+## About
 
-I’m a CS major at Illinois Institute of Technology with experience building backend systems, analytics workflows, and internal tools that support real business and operational decisions. I enjoy translating ambiguous problems into structured, data-driven solutions and working across technical and non-technical stakeholders.
+I’m interested in backend engineering, APIs, infrastructure-oriented software, and data-heavy products that solve real problems cleanly. My work so far has included backend development, internal tooling, systems coursework, and data workflows across academic and internship projects.
 
-Alongside my technical background, I’m preparing for **CFA Level I**, which strengthens my understanding of finance, risk, and decision frameworks. Long-term, I’m interested in roles where technology and data are used to drive impact in analytics, consulting, solutions engineering, or business-facing technical teams.
-
----
-
-## Areas of Focus
-- Analytics & data-driven decision support  
-- Solutions engineering & business systems  
-- Backend systems & automation  
-- Finance, risk, and operational analysis
+I like building software that is practical, readable, and reliable under real use.
 
 ---
 
-## Technical Skills
+## Focus
 
-**Programming & Backend:**  
-Python, Java, SQL, Flask, Spring Boot, PostgreSQL, Oracle DB  
+- Backend systems and API development
+- Data-driven products and internal tools
+- Systems programming and software fundamentals
+- Automation, databases, and reliability
 
-**Analytics & Data:**  
-SQL, Pandas, data analysis, reporting workflows  
+---
+
+## Tech
+
+**Languages:**  
+Python, Java, C, SQL, JavaScript
+
+**Backend & Data:**  
+Spring Boot, Flask, PostgreSQL, Oracle SQL, REST APIs, ETL workflows
 
 **Systems & Tools:**  
-Linux, Git, APIs, automation pipelines  
-
-**Business & Finance:**  
-Accounting, operations, analytics concepts | CFA Level I candidate  
+Linux, Git, automation pipelines, debugging, process-oriented systems
 
 ---
 
-## Currently Exploring
-- Solutions Engineer Intern roles  
-- Analytics / Data Analyst Intern roles  
-- Business or Risk Analyst Intern roles  
+
+## Currently
+
+I’m currently exploring opportunities in:
+- Software Engineering
+- Backend Engineering
+- Data Engineering
+- Infrastructure-leaning product teams
 
 ---
 
-## 📬 Connect With Me
+## Connect With Me [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shree-meher-3b1727259/)](https://www.linkedin.com/in/shree-meher/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/s-meher)](https://github.com/s-meher) [![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:shreemeher05@gmail.com)](mailto:shreemeher05@gmail.com) 
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shree-meher-3b1727259/)](https://www.linkedin.com/in/shree-meher-3b1727259/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/s-meher)](https://github.com/s-meher)
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:shreemeher05@gmail.com)](mailto:shreemeher05@gmail.com)
 
-💡 *Always learning, always building. Let's connect and create something extraordinary! 🚀*
+💡 *Always learning, always building. Let's connect and create something extraordinary! *
